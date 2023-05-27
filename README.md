@@ -27,5 +27,13 @@
 ### 5.	Write a program in Java for, Given two arrays {1,2,3,4,5,6,7} and {1,2,3,4,6,7} find which number is not present in the second array.
     
    ![ScreenShot](images/A05_NumberNotPresentInSecondArray.PNG)
+   
+### 6.	Write a program in Java to find largest and smallest number in array.
+    
+   ![ScreenShot](images/A06_LargestAndSmallestNumber.PNG)
+
+ 
+
+   
 
  
