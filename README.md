@@ -40,7 +40,7 @@
     
    ![ScreenShot](images/A08_TopTwoLargestAndTopTwoMinNumbers1.PNG)
    
-   ![ScreenShot](images/A08_TopTwoLargestAndTopTwoMinNumbers.PNG) 
+   ![ScreenShot](images/A08_TopTwoLargestAndTopTwoMinNumbers2.PNG) 
 
  
 
