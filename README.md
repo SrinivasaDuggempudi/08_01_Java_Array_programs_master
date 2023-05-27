@@ -20,4 +20,6 @@
          
    ![ScreenShot](images/A03_PairsOfIntegersEqualToSum.PNG)
 
-  
+ ### 4.	Write a program in Java for, In a array 1-100 exactly one number is duplicate how do you find it.
+     
+   ![ScreenShot](images/A04_FindDuplicate.PNG) 
