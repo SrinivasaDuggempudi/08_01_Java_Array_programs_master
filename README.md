@@ -16,4 +16,8 @@
      
    ![ScreenShot](images/A02_MultipleNumbersDuplicate.PNG)
 
- 
+### 3.	Write a program in Java for, How to find all pairs in array of integers whose sum is equal to given number.
+         
+   ![ScreenShot](images/A03_PairsOfIntegersEqualToSum.PNG)
+
+  
