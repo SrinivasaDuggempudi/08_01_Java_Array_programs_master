@@ -32,6 +32,12 @@
     
    ![ScreenShot](images/A06_LargestAndSmallestNumber.PNG)
 
+### 7.	Write a program in Java to find second highest number in an integer array.
+    
+   ![ScreenShot](images/A07_SecondLargestNumberInArray.PNG)
+
+ 
+
  
 
    
