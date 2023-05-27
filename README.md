@@ -10,3 +10,10 @@
    ***Second way : Using Formula***  
     
    ![ScreenShot](images/A01_FindMissingNumber2.PNG)
+
+### 2.	Write a program in Java for, In a array 1-100 multiple numbers are duplicates, how do you find it.
+     
+     
+   ![ScreenShot](images/A02_MultipleNumbersDuplicate.PNG)
+
+ 
