@@ -36,7 +36,11 @@
     
    ![ScreenShot](images/A07_SecondLargestNumberInArray.PNG)
 
- 
+### 8.	Write a program to find the top two Largest  Numbers and Top two Smallest Numbers number in the array
+    
+   ![ScreenShot](images/A08_TopTwoLargestAndTopTwoMinNumbers1.PNG)
+   
+   ![ScreenShot](images/A08_TopTwoLargestAndTopTwoMinNumbers.PNG) 
 
  
 
