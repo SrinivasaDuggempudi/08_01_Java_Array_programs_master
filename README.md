@@ -6,3 +6,7 @@
    ***First way : Using ExtraIteration***  
     
    ![ScreenShot](images/A01_FindMissingNumber.PNG)
+   
+   ***Second way : Using Formula***  
+    
+   ![ScreenShot](images/A01_FindMissingNumber2.PNG)
