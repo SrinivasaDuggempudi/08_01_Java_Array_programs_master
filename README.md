@@ -46,9 +46,12 @@
     
    ![ScreenShot](images/A09_ReverseOrder.PNG) 
 
-### 9.	Java program to print array in reverse Order.
+### 10.	Java program to reverse array without using second array.
     
-   ![ScreenShot](images/A09_ReverseOrder.PNG)
+   ![ScreenShot](images/A10_ReverseArrayWithoutSecondArray.PNG)
+   
+
+ 
       
 
  
